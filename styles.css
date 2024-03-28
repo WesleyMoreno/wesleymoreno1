@@ -69,19 +69,65 @@ main {
 }
 
 .img {
-    width: 350px;
-    /* Largura da imagem */
+        max-width: 100%;
+        /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
+        height: auto;
+        /* Altura automática para manter a proporção */
+        display: block;
+        /* Exibe a imagem como um bloco */
+        margin: 100px auto;
+        /* Margem para centralizar horizontalmente */
+        border: 1px solid #ccc;
+        /* Borda da imagem */
+        border-radius: 0px;
+        /* Borda arredondada */
+    
+}
+.img2 {
+    max-width: 100%;
+    /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
     height: auto;
     /* Altura automática para manter a proporção */
     display: block;
     /* Exibe a imagem como um bloco */
     margin: 100px auto;
     /* Margem para centralizar horizontalmente */
-    border: 1px solid #ccc;
+    border: 0px 
+    /* Borda da imagem */
+    border-radius: 0px;
+    /* Borda arredondada */
+
+}
+
+.img3 {
+    max-width: 30%;
+    /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
+    height: auto;
+    /* Altura automática para manter a proporção */
+    display: block;
+    /* Exibe a imagem como um bloco */
+    margin: 100px auto;
+    /* Margem para centralizar horizontalmente */
+    border: 0px 
     /* Borda da imagem */
     border-radius: 5px;
     /* Borda arredondada */
-    
+
+}
+.img4 {
+    max-width: 50%;
+    /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
+    height: auto;
+    /* Altura automática para manter a proporção */
+    display: block;
+    /* Exibe a imagem como um bloco */
+    margin: 80px auto;
+    /* Margem para centralizar horizontalmente */
+    border: 0px 
+    /* Borda da imagem */
+    border-radius: 0px;
+    /* Borda arredondada */
+
 }
 
 
