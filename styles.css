@@ -69,13 +69,13 @@ main {
 }
 
 .img {
-    width: 500px;
+    width: 350px;
     /* Largura da imagem */
     height: auto;
     /* Altura automática para manter a proporção */
     display: block;
     /* Exibe a imagem como um bloco */
-    margin: 50px auto;
+    margin: 100px auto;
     /* Margem para centralizar horizontalmente */
     border: 1px solid #ccc;
     /* Borda da imagem */
@@ -90,41 +90,41 @@ main {
     /* Altura automática para manter a proporção */
     display: block;
     /* Exibe a imagem como um bloco */
-    margin: 30px auto;
+    margin: 100px auto;
     /* Margem para centralizar horizontalmente */
-    border: 0px solid #ccc;
+    border: 1px solid #ccc;
     /* Borda da imagem */
     border-radius: 5px;
     /* Borda arredondada */
 }
 
 .img3 {
-    width: 400px;
+    width: 350px;
     /* Largura da imagem */
     height: auto;
     /* Altura automática para manter a proporção */
     display: block;
     /* Exibe a imagem como um bloco */
-    margin: 50px auto;
+    margin: 100px auto;
     /* Margem para centralizar horizontalmente */
-    border: 0px solid #ccc;
+    border: 1px solid #ccc;
     /* Borda da imagem */
     border-radius: 5px;
     /* Borda arredondada */
 }
 
 .img4 {
-    width: 500px;
+    width: 350px;
     /* Largura da imagem */
     height: auto;
     /* Altura automática para manter a proporção */
     display: block;
     /* Exibe a imagem como um bloco */
-    margin: 15px auto;
+    margin: 100px auto;
     /* Margem para centralizar horizontalmente */
-    border: 0px solid #ccc;
+    border: 1px solid #ccc;
     /* Borda da imagem */
-    border-radius: 10px;
+    border-radius: 5px;
     /* Borda arredondada */
 }
 
