@@ -69,18 +69,18 @@ main {
 }
 
 .img {
-        max-width: 300%;
-        /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
-        height: auto;
-        /* Altura automática para manter a proporção */
-        display: block;
-        /* Exibe a imagem como um bloco */
-        margin: 50px auto;
-        /* Margem para centralizar horizontalmente */
-        border: 1px solid #ccc;
-        /* Borda da imagem */
-        border-radius: 5px;
-        /* Borda arredondada */
+    width: 350px;
+    /* Largura da imagem */
+    height: auto;
+    /* Altura automática para manter a proporção */
+    display: block;
+    /* Exibe a imagem como um bloco */
+    margin: 100px auto;
+    /* Margem para centralizar horizontalmente */
+    border: 1px solid #ccc;
+    /* Borda da imagem */
+    border-radius: 5px;
+    /* Borda arredondada */
     
 }
 
