@@ -75,7 +75,7 @@ main {
         /* Altura automática para manter a proporção */
         display: block;
         /* Exibe a imagem como um bloco */
-        margin: 100px auto;
+        margin: 300px auto;
         /* Margem para centralizar horizontalmente */
         border: 1px solid #ccc;
         /* Borda da imagem */
