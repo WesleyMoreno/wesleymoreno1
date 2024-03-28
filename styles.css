@@ -69,23 +69,24 @@ main {
 }
 
 .img {
-    width: 350px;
-    /* Largura da imagem */
-    height: auto;
-    /* Altura automática para manter a proporção */
-    display: block;
-    /* Exibe a imagem como um bloco */
-    margin: 100px auto;
-    /* Margem para centralizar horizontalmente */
-    border: 1px solid #ccc;
-    /* Borda da imagem */
-    border-radius: 5px;
-    /* Borda arredondada */
+        max-width: 100%;
+        /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
+        height: auto;
+        /* Altura automática para manter a proporção */
+        display: block;
+        /* Exibe a imagem como um bloco */
+        margin: 100px auto;
+        /* Margem para centralizar horizontalmente */
+        border: 1px solid #ccc;
+        /* Borda da imagem */
+        border-radius: 5px;
+        /* Borda arredondada */
+    
 }
 
 .img2 {
-    width: 350px;
-    /* Largura da imagem */
+    max-width: 100%;
+    /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
     height: auto;
     /* Altura automática para manter a proporção */
     display: block;
@@ -99,33 +100,33 @@ main {
 }
 
 .img3 {
-    width: 350px;
-    /* Largura da imagem */
-    height: auto;
-    /* Altura automática para manter a proporção */
-    display: block;
-    /* Exibe a imagem como um bloco */
-    margin: 100px auto;
-    /* Margem para centralizar horizontalmente */
-    border: 1px solid #ccc;
-    /* Borda da imagem */
-    border-radius: 5px;
-    /* Borda arredondada */
+    max-width: 100%;
+        /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
+        height: auto;
+        /* Altura automática para manter a proporção */
+        display: block;
+        /* Exibe a imagem como um bloco */
+        margin: 100px auto;
+        /* Margem para centralizar horizontalmente */
+        border: 1px solid #ccc;
+        /* Borda da imagem */
+        border-radius: 5px;
+        /* Borda arredondada */
 }
 
 .img4 {
-    width: 350px;
-    /* Largura da imagem */
-    height: auto;
-    /* Altura automática para manter a proporção */
-    display: block;
-    /* Exibe a imagem como um bloco */
-    margin: 100px auto;
-    /* Margem para centralizar horizontalmente */
-    border: 1px solid #ccc;
-    /* Borda da imagem */
-    border-radius: 5px;
-    /* Borda arredondada */
+    max-width: 100%;
+        /* Garante que a largura máxima da imagem seja de 100% da largura do contêiner pai */
+        height: auto;
+        /* Altura automática para manter a proporção */
+        display: block;
+        /* Exibe a imagem como um bloco */
+        margin: 100px auto;
+        /* Margem para centralizar horizontalmente */
+        border: 1px solid #ccc;
+        /* Borda da imagem */
+        border-radius: 5px;
+        /* Borda arredondada */
 }
 
 .contato-texto {
